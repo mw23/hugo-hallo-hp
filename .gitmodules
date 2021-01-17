@@ -1,0 +1,3 @@
+[submodule "themes/hallo"]
+	path = themes/hallo
+	url = https://github.com/mw23/hallo-hugo
